@@ -147,43 +147,16 @@
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/248122 " target="_blank" rel="noopener noreferrer") García Fernández, J. A. (Coord.) & Moreno Herrero, I. (Coord.). (2014). Escuela, diversidad cultural e inclusión: (1 ed.). Los libros de la Catarata. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.scielo.cl/scielo.php?pid=S0718-07052005000200009&script=sci_arttext&tlng=en " target="_blank" rel="noopener noreferrer") Labra, P., Montenegro, G., Iturra, C., & Fuentealba, R. (2005). La investigación-acción como herramienta para lograr coherencia de acción en el proceso de práctica profesional durante la formación inicial docente. Estudios pedagógicos (Valdivia), 31(2), 137-143.  
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="http://www.scielo.org.co/scielo.php?pid=S0121-24942019000200009&script=sci_arttext" target="_blank" rel="noopener noreferrer") Bolívar-Osorio, R. M. (2019). Investigar la práctica pedagógica en la formación inicial de maestros. Pedagogía y Saberes, (51), 9-22.  
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.revistas.investigacion-upelipb.com/index.php/renaciente/article/view/1398 " target="_blank" rel="noopener noreferrer") Coronado, E., Carrasco, M. V., García, Y., Maldonado, M., Aguiar, I., & Castellón, A. H. (2020). Contar para aprender: Actividad de extensión de las estudiantes de Práctica Profesional de la especialidad de Educación Inicial. ReNaCientE-Revista Nacional Científica Estudiantil-UPEL-IPB, 1(1), 71-87. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.salvarojeducacion.com/2015/05/educar-con-sentido-y-coherencia.html " target="_blank" rel="noopener noreferrer") Educar con sentido y coherencia. (s.f.). El blog de Salvaroj. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.uninorte.edu.co/web/blogobservaeduca/blogs/-/blogs/concepciones-de-la-educacion-en-la-infancia " target="_blank" rel="noopener noreferrer") Concepciones de la educación en la infancia - Observatorio De Educación del Caribe Colombiano - Uninorte. (s.f.). Observatorio De Educación del Caribe Colombiano.  
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href=". https://worldvisionamericalatina.org/educacion-inicial-importancia-en-el-desarrollo-infantil/ " target="_blank" rel="noopener noreferrer") Educación inicial: ¿Cuál es su importancia en el desarrollo infantil? (s.f.). World Vision América Latina. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://ieeducacion.com/blog-de-educacion-infantil/" target="_blank" rel="noopener noreferrer") Blog de Educación Infantil - Instituto Europeo de Educación. (s.f.). Instituto Europeo de Educación. 
+             
+           
+            
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
               a(href="https://www.youtube.com/watch?v=xgp6QxE68uc" target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional. (2021, 15 de mayo). Conversatorio con docentes de educación preescolar, básica, media y superior. [Video]. YouTube. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=6hxp_xIZGgU" target="_blank" rel="noopener noreferrer") Universidad Pedagógica Nacional. (2016, 28 de junio). Investigación y prácticas en la Licenciatura en Educación Infantil. [Video]. YouTube. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=PhySv2RpgkQ " target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional. (2014, 1 de julio). La comunidad trabajando por una educación de calidad y pertinente. [Video]. YouTube. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=s2aHj-cLVP4 " target="_blank" rel="noopener noreferrer") Universidad Pedagógica Nacional. (2013, 14 de noviembre). Encuentro de prácticas y saberes para la primera infancia. [Video]. YouTube. 
-            p.d-flex.my-4
-              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://www.youtube.com/watch?v=2l4yqZq9sLs " target="_blank" rel="noopener noreferrer") Formación Continua. (2020, 29 de mayo). JORNADA DE REFLEXIÓN PARA DOCENTES Y DIRECTIVOS DE EDUCACIÓN PREESCOLAR. [Video]. YouTube. 
+            
+             
+            
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure

@@ -15,15 +15,20 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/274611" target="_blank" rel="noopener noreferrer") De Castro Emilio Cerdá, F. J. A. L. M. (s/f). Las energías renovables en el ámbito internacional. Revistasice.com. 
-
+              a(href="https://www.salvarojeducacion.com/2015/05/educar-con-sentido-y-coherencia.html " target="_blank" rel="noopener noreferrer") Educar con sentido y coherencia. (s.f.). El blog de Salvaroj. 
             p.d-flex.my-4
-              img.me-3(src='@/assets/template/book.svg' :style="{'max-width':'16px'}")
-              span De Janeiro, R. (1992). La declaración del Río sobre el Medio Ambiente y el Desarrollo. Río de Janeiro República Federativa del Brasil., aprobada en Estocolmo el, 16.
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.uninorte.edu.co/web/blogobservaeduca/blogs/-/blogs/concepciones-de-la-educacion-en-la-infancia " target="_blank" rel="noopener noreferrer") Concepciones de la educación en la infancia - Observatorio De Educación del Caribe Colombiano - Uninorte. (s.f.). Observatorio De Educación del Caribe Colombiano.  
+            p.d-flex.my-4
+              img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
+              a(href=". https://worldvisionamericalatina.org/educacion-inicial-importancia-en-el-desarrollo-infantil/ " target="_blank" rel="noopener noreferrer") Educación inicial: ¿Cuál es su importancia en el desarrollo infantil? (s.f.). World Vision América Latina. 
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-              a(href="https://youtu.be/QKLjwCMyv3M?si=uAWhO9tnyghljaJg" target="_blank" rel="noopener noreferrer") Innovación y sostenibilidad.
+              a(href="https://www.youtube.com/watch?v=PhySv2RpgkQ " target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional. (2014, 1 de julio). La comunidad trabajando por una educación de calidad y pertinente. [Video]. YouTube. 
+            p.d-flex.my-4
+              img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
+              a(href="https://www.youtube.com/watch?v=s2aHj-cLVP4 " target="_blank" rel="noopener noreferrer") Universidad Pedagógica Nacional. (2013, 14 de noviembre). Encuentro de prácticas y saberes para la primera infancia. [Video]. YouTube.
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
