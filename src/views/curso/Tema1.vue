@@ -63,10 +63,10 @@
     p.mb-4 ¿Por qué es tan importante esta coherencia?
 
     .row.align-items-start.mb-5
-      .col-lg-4.order-2
+      .col-lg-4.order-lg-2.mb-3.mb-lg-0
         figure
           img(src="@/assets/curso/tema1/7.png", alt="").mb-4.mb-lg-0
-      .col-lg-8.mb-3.mb-lg-0.order-1
+      .col-lg-8.order-lg-1
     
         AcordionA(tipo="b")
           .div(titulo="Evita la improvisación en la enseñanza")
@@ -118,7 +118,7 @@
         figure
           img(src="@/assets/curso/tema1/10.png", data-aos="zoom-in")
       .col-lg-8
-        h5.mb-0 Reflexionemos:
+        h5 Reflexionemos:
         p(data-aos="fade-left") En la Unidad 2 se aprendió a estructurar y aplicar una propuesta didáctica. Ahora, en la Unidad 3, se debe evaluar si realmente fue pertinente y funcional, dentro del contexto del centro de práctica.
     
         .bg-color-5.p-4.mb-3(data-aos="fade-left")
@@ -148,9 +148,6 @@
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
               a(href="https://elibro.net/es/lc/tecnologicadeloriente/titulos/248122 " target="_blank" rel="noopener noreferrer") García Fernández, J. A. (Coord.) & Moreno Herrero, I. (Coord.). (2014). Escuela, diversidad cultural e inclusión: (1 ed.). Los libros de la Catarata. 
              
-           
-            
-
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
               a(href="https://www.youtube.com/watch?v=xgp6QxE68uc" target="_blank" rel="noopener noreferrer") Ministerio de Educación Nacional. (2021, 15 de mayo). Conversatorio con docentes de educación preescolar, básica, media y superior. [Video]. YouTube. 
