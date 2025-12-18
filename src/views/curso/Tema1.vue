@@ -32,7 +32,7 @@
         p(data-aos="fade-left") No obstante, al enfrentarse a la realidad del aula, suelen surgir interrogantes sobre su aplicabilidad y efectividad, en contextos educativos concretos.
         h5 Aquí es donde entra en juego la coherencia entre teoría y práctica, un aspecto fundamental para garantizar que lo aprendido en la formación docente, se traduzca en estrategias efectivas dentro del contexto educativo.
     
-    h2(data-aos="fade-left") ¿Qué implica la coherencia entre teoría y práctica?a
+    h2(data-aos="fade-left") ¿Qué implica la coherencia entre teoría y práctica?
     p.mb-5 Ser coherente entre lo que se aprende y lo que se aplica, significa que las estrategias, metodologías y recursos utilizados en la enseñanza no son improvisados, sino que responden a un marco teórico sólido y bien fundamentado. Para ello, es clave considerar los siguientes aspectos:
 
     .bg-full-width.bg-fondo-slider.mb-5

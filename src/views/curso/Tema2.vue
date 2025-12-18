@@ -119,7 +119,7 @@
         .bg-color-2.p-4(data-aos="fade-left")
           h5.mb-5 Reflexionemos:
           p Una propuesta didáctica no es pertinente si ignora la diversidad del aula, ni es funcional si no se puede aplicar en la realidad del centro de práctica.
-          p Por ello, es fundamental analizar si la propuesta implementada respeta los principios institucionales, responde a las necesidades de los niños y puede ejecutarse de manera efectiva en el aula, garantizando un aprendizaje inclusivo y significativo para todos
+          p Por ello, es fundamental analizar si la propuesta implementada respeta los principios institucionales, responde a las necesidades de los niños y puede ejecutarse de manera efectiva en el aula, garantizando un aprendizaje inclusivo y significativo para todos.
 
     #t_2_2.titulo-segundo(data-aos="flip-up")
       h2 #[span 2.2] Elementos claves para garantizar la alineación con el contexto institucional
