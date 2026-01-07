@@ -211,7 +211,7 @@
               a(href="https://www.uninorte.edu.co/web/blogobservaeduca/blogs/-/blogs/concepciones-de-la-educacion-en-la-infancia " target="_blank" rel="noopener noreferrer") Concepciones de la educación en la infancia - Observatorio De Educación del Caribe Colombiano - Uninorte. (s.f.). Observatorio De Educación del Caribe Colombiano.  
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-              a(href=". https://worldvisionamericalatina.org/educacion-inicial-importancia-en-el-desarrollo-infantil/ " target="_blank" rel="noopener noreferrer") Educación inicial: ¿Cuál es su importancia en el desarrollo infantil? (s.f.). World Vision América Latina. 
+              a(href="https://www.scielo.org.ar/scielo.php?pid=S0325-00752016000500037" target="_blank" rel="noopener noreferrer") Colangelo, M. A., & García, M. C. (2016). El impacto de la educación inicial en el desarrollo infantil. Revista de Pediatría de Atención Primaria, 18(71), 287–296.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")

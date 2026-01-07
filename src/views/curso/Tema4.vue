@@ -152,11 +152,11 @@
 
             p.d-flex.my-4
               img.me-3(src='@/assets/componentes/link.svg' :style="{'max-width':'16px'}")
-            a(href="https://ieeducacion.com/blog-de-educacion-infantil/" target="_blank" rel="noopener noreferrer") Blog de Educación Infantil - Instituto Europeo de Educación. (s.f.). Instituto Europeo de Educación.
+              a(href="https://ieeducacion.com/blog-de-educacion-infantil/" target="_blank" rel="noopener noreferrer") Blog de Educación Infantil - Instituto Europeo de Educación. (s.f.). Instituto Europeo de Educación.
 
             p.d-flex.my-4
               img.me-3(src='@/assets/template/icono-yt.svg' :style="{'max-width':'16px'}")
-            a(href="https://www.youtube.com/watch?v=2l4yqZq9sLs " target="_blank" rel="noopener noreferrer") Formación Continua. (2020, 29 de mayo). JORNADA DE REFLEXIÓN PARA DOCENTES Y DIRECTIVOS DE EDUCACIÓN PREESCOLAR. [Video]. YouTube. 
+              a(href="https://www.youtube.com/watch?v=2l4yqZq9sLs " target="_blank" rel="noopener noreferrer") Formación Continua. (2020, 29 de mayo). JORNADA DE REFLEXIÓN PARA DOCENTES Y DIRECTIVOS DE EDUCACIÓN PREESCOLAR. [Video]. YouTube. 
 
           .col-12.col-md-6.col-lg-3.offset-lg-1
             figure
